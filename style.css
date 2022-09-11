@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(201, 126, 126);
+}
+#no {
+  background-color: red;
+  width: 50px;
+}
+#yes {
+  background-color: green;
+  width: 50px;
+}
